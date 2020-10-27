@@ -1,0 +1,4 @@
+Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
+0.00214484126984127,Order.29,Order_Src,2.OnEnteredOutputBuffer,[Assign] BeforeExitingAssignments,Unable to get value of property 'Order_Src.AssignmentsBeforeExiting.AssignmentsBeforeExitingStateVariableName'.
+0.00214484126984127,Order.29,Order_Src,2.OnEnteredOutputBuffer,[Assign] BeforeExitingAssignments,Referenced definition type 'GroupEntity' does not match executing type 'MealEntity'
+
