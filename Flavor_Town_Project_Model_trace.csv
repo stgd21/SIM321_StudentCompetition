@@ -1,4 +1,4 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-0.00214484126984127,Order.29,Order_Src,2.OnEnteredOutputBuffer,[Assign] BeforeExitingAssignments,Unable to get value of property 'Order_Src.AssignmentsBeforeExiting.AssignmentsBeforeExitingStateVariableName'.
-0.00214484126984127,Order.29,Order_Src,2.OnEnteredOutputBuffer,[Assign] BeforeExitingAssignments,Referenced definition type 'GroupEntity' does not match executing type 'MealEntity'
+0.00320039682539683,Order.21,Cashier,3.OnEnteredMemberOutputBuffer,[Assign] BeforeMemberExitingAssignments,Unable to get value of property 'Cashier.AssignmentsBeforeMemberExiting.AssignmentsBeforeMemberExitingNewValue'.
+0.00320039682539683,Order.21,Cashier,3.OnEnteredMemberOutputBuffer,[Assign] BeforeMemberExitingAssignments,Referenced definition type 'GroupEntity' does not match executing type 'OrderEntity'
 
