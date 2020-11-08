@@ -1,4 +1,6 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-0.00320039682539683,Order.21,Cashier,3.OnEnteredMemberOutputBuffer,[Assign] BeforeMemberExitingAssignments,Unable to get value of property 'Cashier.AssignmentsBeforeMemberExiting.AssignmentsBeforeMemberExitingNewValue'.
-0.00320039682539683,Order.21,Cashier,3.OnEnteredMemberOutputBuffer,[Assign] BeforeMemberExitingAssignments,Referenced definition type 'GroupEntity' does not match executing type 'OrderEntity'
+0.00320039682539683,Order.68,MemberOutput@Cashier,8.OnEnteredFromAssociatedObject,[Assign] OnEnteringAssignments,Unable to get value of property 'MemberOutput@Cashier.AssignmentsOnEntering.AssignmentsOnEnteringNewValue'.
+0.00320039682539683,Order.68,MemberOutput@Cashier,8.OnEnteredFromAssociatedObject,[Assign] OnEnteringAssignments,Invalid parameters for Discrete probability distribution.
+0.00320039682539683,Order.68,MemberOutput@Cashier,8.OnEnteredFromAssociatedObject,[Assign] OnEnteringAssignments,Possible causes:
+0.00320039682539683,Order.68,MemberOutput@Cashier,8.OnEnteredFromAssociatedObject,[Assign] OnEnteringAssignments,A cumulative probability parameter is not in range 0 to 1; last cumulative probability parameter is not 1;  missing value.
 
