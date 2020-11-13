@@ -1,4 +1,4 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-0.0410750013182398,SidePlatter.73,Output@SideAssmb,43.OnEnteredFromAssociatedObject,[Assign] OnEnteringAssignments,Unable to get value of property 'Output@SideAssmb.AssignmentsOnEntering.AssignmentsOnEnteringStateVariableName'.
-0.0410750013182398,SidePlatter.73,Output@SideAssmb,43.OnEnteredFromAssociatedObject,[Assign] OnEnteringAssignments,Referenced definition type 'OrderEntity' does not match executing type 'Platter'
+19.6646038292245,--,--,--,--,Destroying entity with seized resources
+19.6646038292245,--,--,--,--,"Entity 'Group.5894' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
 
