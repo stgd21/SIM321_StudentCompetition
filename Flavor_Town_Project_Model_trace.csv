@@ -1,4 +1,5 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-19.6646038292245,--,--,--,--,Destroying entity with seized resources
-19.6646038292245,--,--,--,--,"Entity 'Group.5894' is being destroyed while still owning one or more resources. The resources will be automatically released, however this warning may indicate a problem in the modeled logic."
+1.37983087700172,Fryer,Model,48.FryerCook,[Produce] Produce2,Unable to resolve inventory data for material 'Fries' at site object 'Model'.
+1.37983087700172,Fryer,Model,48.FryerCook,[Produce] Produce2,The Location Based Inventory property of the material is set to True but no inventory element for the site was found.
+1.37983087700172,Fryer,Model,48.FryerCook,[Produce] Produce2,Verify that a site object has been specified and that an inventory element for the required Material Name-Site Object Name pair has been added to the model.
 
